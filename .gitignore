@@ -1,1 +1,4 @@
 ssl/keys/*.*
+.config
+.gitignore
+
