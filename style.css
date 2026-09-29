@@ -1,0 +1,27 @@
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+            margin-bottom: 30px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+            font-size: 13px;
+        }
+        th {
+            background-color: #3fd89b;
+            color: white;
+        }
+        .header-materias {
+            background-color: #7cb342;
+            color: white;
+            font-weight: bold;
+        }
+        .sub-info {
+            font-size: 11px;
+            color: #555;
+            display: block;
+        }
